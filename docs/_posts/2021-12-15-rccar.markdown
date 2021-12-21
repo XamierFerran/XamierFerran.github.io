@@ -1,5 +1,6 @@
 ---
 layout: post
-title: "RC Car"
+title: "Remote Control Car"
 categories: Mechanical Engineering
 ---
+During the summer of 2018, I worked for a local outreach program called the Youth Development Organization where I taught a variety of STEM courses to middle schoolers. One of the courses I taught had the main objective of building our own remote controlled cars using the materials we had in our lab. Alongside the students, my co-instructors and I decided to build our own RC-cars using our own prefered designs. 

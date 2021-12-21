@@ -3,3 +3,6 @@ layout: post
 title: "Lowell Kinetic Sculpture Race"
 categories: Mechanical Engineering
 ---
+The Lowell Kinetic Sculpture Race is a an all-terrain, amphibious, human-powered, artistic, vehicle race that takes place once a year in Lowell, Massachusetts. The race spans 6 miles where the pilots riding the vehicles must travel through pavement, cobblestone, mud, water, and sand. 
+
+I participated in this race as captain of one of the two teams representing the local outreach program the Youth Development Organization (YDO). Over the course of a year, starting in the spring and ending in the fall during race day, myself and a team of high schoolers, middle schoolers, and our engineering instructor/coach built two vehicles each being completely human powered and made out of wood and scrap materials from a closed down bike shop.
