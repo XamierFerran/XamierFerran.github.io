@@ -1,0 +1,3 @@
+layout: post
+title: "Lowell Kinetic Sculpture Race"
+categories: Mechanical Engineering
